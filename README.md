@@ -1,6 +1,6 @@
 # Overview
 
-You can create static pages like codelab.
+You can create static web pages like codelab.
 
 
 # Preview
